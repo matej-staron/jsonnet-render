@@ -1,5 +1,5 @@
 # Container image that runs your code
-FROM bitnami/jsonnet:latest
+FROM bitnamilegacy/jsonnet:latest
 
 USER root
 
